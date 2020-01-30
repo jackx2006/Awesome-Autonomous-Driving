@@ -47,6 +47,7 @@ Please feel free to [pull requests](https://github.com/captainzone/AwesomeAutono
 Jack Terwilliger, Julia Kindelsberger, Li Ding, Sean Seaman, Hillary Abraham, Alea Mehler,
 Andrew Sipperley, Anthony Pettinato, Bobbie Seppelt, Linda Angell, Bruce Mehler, Bryan Reimer
 * Reading Material Advanced Machine Learning by SungjuHwang [[github](https://github.com/sjhwang82/AdvancedML)]
+* (Jan 30.2020 Add)A Survey of Autonomous Driving: Common Practices and Emerging Technologies
 
 ### Classification
 * Densely Connected Convolutional Networks [[Paper](https://arxiv.org/abs/1608.06993)]
